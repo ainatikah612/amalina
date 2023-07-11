@@ -10,7 +10,8 @@ const LENGTH_TO_METER = array(
   "meters" => 10,
   "acres" => 63.614907234075,
   "hectares" => 100,
-  "nautical_miles" => 1852
+  "nautical_miles" => 1852,
+  "kilometers" =>0.01
 );
 
 const VOLUME_TO_LITER = array(
